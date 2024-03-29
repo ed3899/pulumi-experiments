@@ -1,15 +1,12 @@
 {
-    "name": "quickstart",
+    "name": "bot",
     "main": "index.ts",
     "devDependencies": {
         "@types/node": "^18"
     },
     "dependencies": {
-        "@pulumi/aws": "^6.0.0",
-        "@pulumi/awsx": "^2.0.2",
         "@pulumi/pulumi": "^3.0.0",
-        "@types/ramda": "^0.29.11",
-        "dotenv": "^16.4.5",
-        "ramda": "^0.29.1"
+        "@pulumi/aws": "^6.0.0",
+        "@pulumi/awsx": "^2.0.2"
     }
 }
